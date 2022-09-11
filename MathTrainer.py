@@ -7,7 +7,6 @@ difficulty = None
 eventLabelText = None
 saved = False
 
-
 class Page(Frame):
     def __init__(self, *Args, **kwargs):
         Frame.__init__(self, *Args, **kwargs)
